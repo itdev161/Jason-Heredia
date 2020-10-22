@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Heredijr:H3r3dijr4321@cluster0.4ew5p.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Heredijr:H3r3dijr4321@cluster0.4ew5p.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "maytheforcebewithyou"
 }
